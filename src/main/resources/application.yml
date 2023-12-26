@@ -1,0 +1,4 @@
+#logging:
+#  level:
+#    org.springframework.data.*.*: trace
+#    org.springframework.cache.*: trace
